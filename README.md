@@ -43,8 +43,9 @@ Index:
     1. Dicewire: 
             used to generate passphrases
             
-Tools:
+6. Tools:
     Some useful tools in daily life.
+    
     1. List Modules:
         how many module you have installed in python
         
